@@ -32,6 +32,7 @@ var testarColisao = setInterval(function () {
         btnPular.style.backgroundImage = "url('img/botao_desativado.png')";
         btnPular.style.cursor = 'default';
         document.body.onkeydown = '';
+        document.body.onmousedown = ''
         aviso.style.display = 'block';
         aviso.innerHTML = "Você bateu :(<br><a href='index.html'>Reiniciar</a>";
     }
