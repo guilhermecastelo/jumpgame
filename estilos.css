@@ -57,6 +57,7 @@ p#aviso a {
 }
 
 button {
+    display: none;
     margin-top: 5px;
     padding: 25px;
     cursor: pointer;
