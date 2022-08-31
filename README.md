@@ -1,4 +1,4 @@
-# Jump Game
+# Jump Game - Versão 1 (Descontinuada)
 
 ### 📌 Descrição
 Jogo desenvolvido com HTML, CSS e JavaScript.
