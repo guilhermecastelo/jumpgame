@@ -11,3 +11,5 @@ Para manipular os códigos presentes neste repositório, você precisará ter:
 
 Para jogar, basta acessar:
 <https://guilhermecastelo.github.io/jumpgame/>
+
+### ℹ Uma nova versão está disponível: <https://github.com/guilhermecastelo/jumpgame_v2> 
